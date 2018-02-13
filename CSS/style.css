@@ -1,0 +1,37 @@
+body {
+  padding: 0;
+    margin: 0;
+}
+header {
+  text-align: center;
+  background: url("https://s13.postimg.org/yxqp5aw5z/vw-camper-336606_1920.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: calibri light;
+  }
+  img {
+    margin: 0px 0px 40px 0px;
+    height: auto;
+    width: auto;
+    max-width: 300px;
+    max-height: 300px;
+    border: 10px solid white;
+  }
+  h1{
+   font-size: 40px
+  }
+  p {
+  font-size: 20px
+  }
+  ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    a {
+      color: white;
+    }
